@@ -18,7 +18,7 @@
     "@vitejs/plugin-vue": "^5.1.4",
     "@vue-email/components": "^0.0.19",
     "@vue-email/render": "^0.0.9",
-    "nodemailer": "^6.9.13",
+    "nodemailer": "^9.0.1",
     "nuxt-swiper": "^1.2.2",
     "nuxt-vue3-google-signin": "^0.0.6",
     "vue": "^3.4.21",
